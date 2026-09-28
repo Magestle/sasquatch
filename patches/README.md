@@ -22,3 +22,4 @@ The following files have been modified from their original version:
  * LZMA/lzmadaptive/C/7zip/Compress/LZMA_Lib/ZLib.cpp
  * LZMA/lzmadaptive/C/7zip/Compress/LZMA_Lib/lzmadaptive.h
 
+Patch fixes compile error from missing parameter in sigwinch handler and sigalrm_handler
